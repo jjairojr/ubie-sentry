@@ -1,0 +1,24 @@
+{
+  "name": "@ubie/error-monitoring-sdk",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Lightweight JavaScript/TypeScript SDK for error monitoring",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "error",
+    "monitoring",
+    "sdk",
+    "sentry"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

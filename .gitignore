@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+.DS_Store
+*.log
+.turbo/
+coverage/
+.next/
+out/
+packages/*/node_modules/
+packages/*/dist/
+packages/*/build/
